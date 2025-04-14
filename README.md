@@ -46,23 +46,6 @@ With **Modernize**, users can take advantage of a clean and minimalistic interfa
 ---
 
 
-
-## ◾ Techniques Used
-
-| **Technique**              | **Description**                                                                 |
-|----------------------------|---------------------------------------------------------------------------------|
-| **Responsive Design**       | Ensures the template adapts smoothly across devices like desktops, tablets, and mobile phones.like desktops, tablets, and mobile phones. |
-| **Customizable Components** | Easy to modify elements such as buttons, cards, and navigation bars to fit the user's needs. |
-| **Bootstrap 5 Integration** | Built with the latest Bootstrap 5 framework for enhanced flexibility and modern UI components. |
-| **Dark and Light Modes**    | Provides two theme options for better user experience and accessibility preferences. |
-| **Pre-designed Pages**      | Includes ready-made layouts for common UI pages such as login, user profiles, and dashboards. |
-| **Easy Integration**        | Compatible with various JavaScript libraries and backend frameworks for seamless integration. |
-
-
-----
-
-
-
 ## ◾ Notable Libraries and Tools
 
 | **Library / Tool**    | **Description**                                                                 |
@@ -108,6 +91,11 @@ npm start
 ```
 
 ---
+## ◾ Pro Version
+
+
+---
+
 
 ## ◾ Free vs Pro Version Comparison
 
@@ -142,6 +130,8 @@ The **Free Version** of the **Modernize Bootstrap 5 Admin Template** provides a 
 | **Advanced Analytics & Reporting**| ❌ Basic reports                       | ✅ Advanced analytics with custom reports and filters|
 | **Integration with APIs**         | ❌ Not supported                       | ✅ Full API integration for third-party services    |
 | **Access to New Updates**         | ❌ No                                  | ✅ Lifetime access to all future updates and new features |
+| **Demo**                          | [![Try the Demo](https://img.shields.io/badge/Try_the_Demo-Click_Here-blue)](https://bootstrapdemos.adminmart.com/modernize-bt-free/src/html/index.html)                               | [![Try the Demo](https://img.shields.io/badge/Try_the_Demo-Click_Here-blue)](https://bootstrapdemos.adminmart.com/modernize-bt-free/src/html/index.html)                                              |
+| **Download**                      | [![Download Now](https://img.shields.io/badge/Download_Now-Click_Here-green)](https://bootstrapdemos.adminmart.com/modernize-bt-free/src/html/index.html)                                | [![Download Now](https://img.shields.io/badge/Download_Now-Click_Here-green)](https://bootstrapdemos.adminmart.com/modernize-bt-free/src/html/index.html)                                          |
 
 
 ---
@@ -224,6 +214,15 @@ Follow these simple steps to start contributing:
    git commit -am "Add: Description of changes made"
    git push origin feature/your-feature-name
 
+
+---
+
+## ◾ Useful Links
+- <p><a href="https://www.wrappixel.com/">Admin Theme</a> from Wrappixel</p>
+- <p><a href="https://www.wrappixel.com/templates/materialpro/">Bootstrap Themes</a> from Wrappixel</p>
+- <p><a href="https://www.wrappixel.com/templates/materialpro-lite/">Free Bootstrap Admin Templates</a> from Wrappixel</p>
+- <p><a href="https://www.wrappixel.com/templates/materialpro-react-redux-admin/">React Bootstrap Template</a> from Wrappixel</p>
+- <p><a href="https://www.wrappixel.com/templates/materialpro-vuetify-admin/">Vuejs Templates</a> from Wrappixel</p>
 
 ---
 
