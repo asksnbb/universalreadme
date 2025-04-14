@@ -91,6 +91,17 @@ npm start
 ```
 
 ---
+
+## ◾ Documentation
+
+Welcome to the **Modernize Bootstrap 5 Admin Template** documentation! Whether you're just getting started or looking to explore advanced features, this guide will help you set up and customize your project with ease.
+
+👉 **[Click here to read the full documentation](https://adminmart.github.io/free-documentation/bootstrap/modernize/index.html)**
+
+
+---
+
+
 ## ◾ Pro Version
 
 The Pro Version of the **Modernize Bootstrap 5 Admin Template** comes packed with essential features—ideal for personal projects, prototypes, or small-scale applications. When you're ready to level up, the Pro Version unlocks a powerful suite of extras, including multiple theme options, advanced UI widgets, real-time notifications, priority support, and a host of other premium tools designed to supercharge your development workflow.
@@ -138,16 +149,6 @@ The **Free Version** of the **Modernize Bootstrap 5 Admin Template** provides a 
 | **Advanced Analytics & Reporting**| ❌ Basic reports                       | ✅ Advanced analytics with custom reports and filters|
 | **Integration with APIs**         | ❌ Not supported                       | ✅ Full API integration for third-party services    |
 | **Access to New Updates**         | ❌ No                                  | ✅ Lifetime access to all future updates and new features |
-
-
-
----
-
-## ◾ Documentation
-
-Welcome to the **Modernize Bootstrap 5 Admin Template** documentation! Whether you're just getting started or looking to explore advanced features, this guide will help you set up and customize your project with ease.
-
-👉 **[Click here to read the full documentation](https://adminmart.github.io/free-documentation/bootstrap/modernize/index.html)**
 
 
 ---
