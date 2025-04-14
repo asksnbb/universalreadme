@@ -181,6 +181,33 @@ Welcome to the **Modernize Bootstrap 5 Admin Template** documentation! Whether y
 </td>
   
 </tr>
+
+<tr>
+<th>Angular</th>
+<th>Tailwind CSS</th>
+<th>Nuxt</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>
+  <a href="https://www.wrappixel.com/templates/spike-angular-admin-template/?ref=33" width="150px">
+    <img src="https://www.wrappixel.com/wp-content/uploads/edd/2024/05/spike-angular-admin-wpn.jpg" alt="" style="max-width:140px;">
+  </a>
+</td>
+<td>
+  <a href="https://www.wrappixel.com/templates/spike-tailwind-admin-template/" rel="nofollow" width="150px">
+    <img src="https://www.wrappixel.com/wp-content/uploads/edd/2024/05/spike-tailwind-css-admin-wpn.jpg" alt="" style="max-width:150px;">
+  </a>
+</td>
+<td>
+  <a href="https://www.wrappixel.com/templates/spike-nuxtjs-admin-template/" rel="nofollow" width="150px">
+    <img src="https://www.wrappixel.com/wp-content/uploads/edd/2024/05/spike-nuxtjs-admin-wpn.jpg" alt="" style="max-width:150px;">
+  </a>
+</td>
+</td>
+  
+</tr>
 </tbody>
 </table>
 
