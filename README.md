@@ -93,6 +93,20 @@ npm start
 ---
 ## ◾ Pro Version
 
+The Pro Version of the **Modernize Bootstrap 5 Admin Template** comes packed with essential features—ideal for personal projects, prototypes, or small-scale applications. When you're ready to level up, the Pro Version unlocks a powerful suite of extras, including multiple theme options, advanced UI widgets, real-time notifications, priority support, and a host of other premium tools designed to supercharge your development workflow.
+
+<div style="display: flex; gap: 10px; align-items: center;">
+  <a href="https://bootstrapdemos.adminmart.com/modernize-bt-free/src/html/index.html" target="_blank">
+    <img src="https://img.shields.io/badge/Try_the_Demo-Click_Here-blue" alt="Try the Demo">
+  </a>
+  <a href="https://bootstrapdemos.adminmart.com/modernize-bt-free/src/html/index.html" target="_blank">
+    <img src="https://img.shields.io/badge/Download_Now-Click_Here-green" alt="Download Now">
+  </a>
+</div>
+
+[![Modernize Free Bootstrap 5 Admin Template Demo Screenshot](https://cdn.dribbble.com/userupload/8948452/file/original-9f879dc5c4cadae0ecf2fa2aac29b53c.png)](https://adminmart.com/product/modernize-free-bootstrap-5-admin-template/)
+
+
 
 ---
 
@@ -100,14 +114,6 @@ npm start
 ## ◾ Free vs Pro Version Comparison
 
 The **Free Version** of the **Modernize Bootstrap 5 Admin Template** provides a solid set of features, perfect for personal projects or small applications. However, for businesses or developers looking to unlock more advanced functionality, the **Pro Version** offers exciting features like **multiple themes**, **advanced widgets**, **real-time notifications**, **priority support**, and much more. 
-
-##### 🚀 Try the Demo
-
-[![Try the Demo](https://img.shields.io/badge/Try_the_Demo-Click_Here-blue)](https://bootstrapdemos.adminmart.com/modernize-bt-free/src/html/index.html)
-
-##### 🚀 Download Now
-
-[![Download Now](https://img.shields.io/badge/Download_Now-Click_Here-green)](https://bootstrapdemos.adminmart.com/modernize-bt-free/src/html/index.html)
 
 
 #### Check out the comparison below to see the key differences between the two versions:
