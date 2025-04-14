@@ -146,3 +146,85 @@ The **Free Version** of the **Modernize Bootstrap 5 Admin Template** provides a 
 | **Access to New Updates**         | ❌ No                                  | ✅ Lifetime access to all future updates and new features |
 
 
+---
+
+## ◾ Documentation
+
+Welcome to the **Modernize Bootstrap 5 Admin Template** documentation! Whether you're just getting started or looking to explore advanced features, this guide will help you set up and customize your project with ease.
+
+👉 **[Click here to read the full documentation](https://adminmart.github.io/free-documentation/bootstrap/modernize/index.html)**
+
+
+---
+
+### Versions of Spike Admin Template
+
+<table>
+<thead>
+<tr>
+<th>Angular</th>
+<th>Tailwind CSS</th>
+<th>Nuxt</th>
+<th>Vue Js</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>
+  <a href="https://www.wrappixel.com/templates/spike-angular-admin-template/?ref=33" width="150px">
+    <img src="https://www.wrappixel.com/wp-content/uploads/edd/2024/05/spike-angular-admin-wpn.jpg" alt="" style="max-width:140px;">
+  </a>
+</td>
+<td>
+  <a href="https://www.wrappixel.com/templates/spike-tailwind-admin-template/" rel="nofollow" width="150px">
+    <img src="https://www.wrappixel.com/wp-content/uploads/edd/2024/05/spike-tailwind-css-admin-wpn.jpg" alt="" style="max-width:150px;">
+  </a>
+</td>
+<td>
+  <a href="https://www.wrappixel.com/templates/spike-nuxtjs-admin-template/" rel="nofollow" width="150px">
+    <img src="https://www.wrappixel.com/wp-content/uploads/edd/2024/05/spike-nuxtjs-admin-wpn.jpg" alt="" style="max-width:150px;">
+  </a>
+</td>
+<td>
+  <a href="https://www.wrappixel.com/templates/spike-vuejs-admin-dashboard/" rel="nofollow" width="150px">
+    <img src="https://www.wrappixel.com/wp-content/uploads/edd/2024/05/spike-vuejs-vuetify-admin-wpn.jpg" alt="" style="max-width:150px;">
+  </a>
+</td>
+</td>
+  
+</tr>
+</tbody>
+</table>
+
+---
+
+
+## ◾ 🤝  Contributing
+
+We welcome contributions from the community to help improve the **Modernize Bootstrap 5 Admin Template**. Whether it’s fixing bugs, adding new features, improving documentation, or sharing ideas — your input is appreciated!
+
+### 🛠️ How to Contribute
+
+Follow these simple steps to start contributing:
+
+1. **Fork the Repository**  
+   Click the **Fork** button on the top-right corner of this repo to create your own copy.
+
+2. **Clone Your Fork**  
+   Use the command below to clone your forked repository:
+   ```bash
+   git clone https://github.com/your-username/modernize-bootstrap5-admin-template.git
+
+3. **Create a New Branch**  
+   Create a new branch to work on your feature or fix. This keeps your changes separate from the main branch:
+   ```bash
+   git checkout -b feature/your-feature-name
+
+4. **Commit and Push Changes**  
+   After making your changes, commit them with a meaningful message and push your branch to your fork:
+   ```bash
+   git commit -am "Add: Description of changes made"
+   git push origin feature/your-feature-name
+
+
+---
