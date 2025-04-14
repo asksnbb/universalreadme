@@ -120,6 +120,8 @@ The **Free Version** of the **Modernize Bootstrap 5 Admin Template** provides a 
 
 | **Feature**                      | **Free Version**                       | **Pro Version**                                      |
 |-----------------------------------|----------------------------------------|-----------------------------------------------------|
+| **Demo**                          | [![Try the Demo](https://img.shields.io/badge/Try_the_Demo-Click_Here-blue)](https://bootstrapdemos.adminmart.com/modernize-bt-free/src/html/index.html)                               | [![Try the Demo](https://img.shields.io/badge/Try_the_Demo-Click_Here-blue)](https://bootstrapdemos.adminmart.com/modernize-bt-free/src/html/index.html)                                              |
+| **Download**                      | [![Download Now](https://img.shields.io/badge/Download_Now-Click_Here-green)](https://bootstrapdemos.adminmart.com/modernize-bt-free/src/html/index.html)                                | [![Download Now](https://img.shields.io/badge/Download_Now-Click_Here-green)](https://bootstrapdemos.adminmart.com/modernize-bt-free/src/html/index.html)                                          |
 | **Responsive Design**             | ✅ Yes                                 | ✅ Yes                                              |
 | **Pre-designed Pages**            | ✅ Basic Pages                         | ✅ Advanced Pages (more layouts & options)           |
 | **Widgets**                       | ✅ Basic Widgets                       | ✅ Advanced Widgets (e.g., weather, charts, maps)    |
@@ -136,8 +138,7 @@ The **Free Version** of the **Modernize Bootstrap 5 Admin Template** provides a 
 | **Advanced Analytics & Reporting**| ❌ Basic reports                       | ✅ Advanced analytics with custom reports and filters|
 | **Integration with APIs**         | ❌ Not supported                       | ✅ Full API integration for third-party services    |
 | **Access to New Updates**         | ❌ No                                  | ✅ Lifetime access to all future updates and new features |
-| **Demo**                          | [![Try the Demo](https://img.shields.io/badge/Try_the_Demo-Click_Here-blue)](https://bootstrapdemos.adminmart.com/modernize-bt-free/src/html/index.html)                               | [![Try the Demo](https://img.shields.io/badge/Try_the_Demo-Click_Here-blue)](https://bootstrapdemos.adminmart.com/modernize-bt-free/src/html/index.html)                                              |
-| **Download**                      | [![Download Now](https://img.shields.io/badge/Download_Now-Click_Here-green)](https://bootstrapdemos.adminmart.com/modernize-bt-free/src/html/index.html)                                | [![Download Now](https://img.shields.io/badge/Download_Now-Click_Here-green)](https://bootstrapdemos.adminmart.com/modernize-bt-free/src/html/index.html)                                          |
+
 
 
 ---
