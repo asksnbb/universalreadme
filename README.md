@@ -157,10 +157,11 @@ Welcome to the **Modernize Bootstrap 5 Admin Template** documentation! Whether y
 <thead>
 <tr>
 <th>
-  <div style="display: flex; align-items: center; justify-content: center;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="32" alt="Bootstrap 5 templates" style="margin-right: 8px">
-    <span>Bootstrap</span>
-  </div>
+  <div style="display: flex; align-items: center; justify-content: center; white-space: nowrap;">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="32" alt="Bootstrap 5 templates" style="margin-right: 8px;">
+  <span style="font-size: 16px;">Bootstrap</span>
+</div>
+
 <th>Tailwind CSS</th>
 <th>Nuxt</th>
 </tr>
