@@ -113,11 +113,16 @@ npm start
 
 ## ◾ Free vs Pro Version Comparison
 
-## ⚖️ Free vs Pro Version Comparison
-
 The **Free Version** of the **Modernize Bootstrap 5 Admin Template** provides a solid set of features, perfect for personal projects or small applications. However, for businesses or developers looking to unlock more advanced functionality, the **Pro Version** offers exciting features like **multiple themes**, **advanced widgets**, **real-time notifications**, **priority support**, and much more. 
 
+##### 🚀 Try the Demo
+
 [![Try the Demo](https://img.shields.io/badge/Try_the_Demo-Click_Here-blue)](https://bootstrapdemos.adminmart.com/modernize-bt-free/src/html/index.html)
+
+##### 🚀 Download Now
+
+[![Download Now](https://img.shields.io/badge/Download_Now-Click_Here-green)](https://bootstrapdemos.adminmart.com/modernize-bt-free/src/html/index.html)
+
 
 #### Check out the comparison below to see the key differences between the two versions:
 
