@@ -113,15 +113,31 @@ npm start
 
 ## ◾ Free vs Pro Version Comparison
 
-| **Feature**                    | **Free Version**                     | **Pro Version**                             |
-|---------------------------------|--------------------------------------|--------------------------------------------|
-| **Responsive Design**           | ✅ Yes                               | ✅ Yes                                     |
-| **Pre-designed Pages**          | ✅ Yes (Basic)                       | ✅ Yes (Advanced + More Pages)             |
-| **Widgets**                     | ✅ Basic Widgets                     | ✅ Advanced Widgets                        |
-| **Themes**                      | ✅ Light and Dark Modes              | ✅ Multiple Themes and Color Skins        |
-| **Customization**               | ✅ Limited                           | ✅ Full Customization Available            |
-| **Support**                     | ❌ Community Support                 | ✅ Priority Support                        |
-| **Additional Components**       | ❌ Limited                           | ✅ Additional Components (Forms, Buttons, etc.) |
-| **Export Options (CSV/PDF)**    | ❌ No                                | ✅ Yes                                     |
-| **Advanced Data Visualization** | ❌ Basic Charts                      | ✅ Advanced Data Visualization             |
+## ⚖️ Free vs Pro Version Comparison
+
+The **Free Version** of the **Modernize Bootstrap 5 Admin Template** provides a solid set of features, perfect for personal projects or small applications. However, for businesses or developers looking to unlock more advanced functionality, the **Pro Version** offers exciting features like **multiple themes**, **advanced widgets**, **real-time notifications**, **priority support**, and much more. 
+
+[![Try the Demo](https://img.shields.io/badge/Try_the_Demo-Click_Here-blue)](https://bootstrapdemos.adminmart.com/modernize-bt-free/src/html/index.html)
+
+#### Check out the comparison below to see the key differences between the two versions:
+
+| **Feature**                      | **Free Version**                       | **Pro Version**                                      |
+|-----------------------------------|----------------------------------------|-----------------------------------------------------|
+| **Responsive Design**             | ✅ Yes                                 | ✅ Yes                                              |
+| **Pre-designed Pages**            | ✅ Basic Pages                         | ✅ Advanced Pages (more layouts & options)           |
+| **Widgets**                       | ✅ Basic Widgets                       | ✅ Advanced Widgets (e.g., weather, charts, maps)    |
+| **Themes**                        | ✅ Light and Dark Modes                | ✅ Multiple Themes, Custom Color Skins, and Dark Modes |
+| **Customization**                 | ✅ Limited Customization               | ✅ Full Customization (Complete theme and UI flexibility) |
+| **Support**                       | ❌ Community Support                   | ✅ Priority Support with Direct Contact             |
+| **Additional Components**         | ❌ Limited                             | ✅ Additional Components (Forms, Buttons, More UI Elements) |
+| **Export Options (CSV/PDF)**      | ❌ No                                  | ✅ Export to CSV, PDF, Excel, and more formats      |
+| **Advanced Data Visualization**   | ❌ Basic Charts                        | ✅ Advanced Data Visualizations (graphs, complex charts) |
+| **Multi-Language Support**        | ❌ Not available                       | ✅ Built-in support for multiple languages          |
+| **User Permissions & Roles**      | ❌ No                                  | ✅ User roles and permissions management            |
+| **Customizable Dashboards**       | ❌ Not available                       | ✅ Drag-and-drop customizable dashboards            |
+| **Real-time Notifications**       | ❌ Not available                       | ✅ Real-time notifications for alerts & updates      |
+| **Advanced Analytics & Reporting**| ❌ Basic reports                       | ✅ Advanced analytics with custom reports and filters|
+| **Integration with APIs**         | ❌ Not supported                       | ✅ Full API integration for third-party services    |
+| **Access to New Updates**         | ❌ No                                  | ✅ Lifetime access to all future updates and new features |
+
 
