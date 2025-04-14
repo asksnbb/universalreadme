@@ -15,7 +15,7 @@
 <p align="center">Download most useful and comprehensive 🚀 Free Bootstrap 5 admin template built for developers 🛠</p>
 
 
-[![Modernize Free Bootstrap 5 Admin Template Demo Screenshot](https://adminmart.com/wp-content/uploads/2023/02/modenize-free-bootstrap-admin-template-min.png)](https://adminmart.com/product/modernize-free-bootstrap-5-admin-template/)
+[![Modernize Free Bootstrap 5 Admin Template Demo Screenshot](https://cdn.dribbble.com/userupload/8948452/file/original-9f879dc5c4cadae0ecf2fa2aac29b53c.png)](https://adminmart.com/product/modernize-free-bootstrap-5-admin-template/)
 
 ## ◾ Introduction
 
