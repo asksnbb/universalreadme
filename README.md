@@ -81,8 +81,6 @@ With **Modernize**, users can take advantage of a clean and minimalistic interfa
 
 Welcome to the **Modernize Bootstrap 5 Admin Template**! This guide will walk you through the installation and setup process, so you can get started with building your custom admin dashboard in no time.
 
----
-
 ### 📝 Steps to Install
 
 #### 1. **Clone the Repository**
