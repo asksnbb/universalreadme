@@ -157,7 +157,7 @@ Welcome to the **Modernize Bootstrap 5 Admin Template** documentation! Whether y
 
 ---
 
-### Versions of Spike Admin Template
+## ◾ Other versions
 
 <table>
 <thead>
