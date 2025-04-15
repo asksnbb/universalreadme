@@ -159,10 +159,11 @@ The **Free Version** of the **Modernize Bootstrap 5 Admin Template** provides a 
 <thead>
 <tr>
 <th>
-  <div style="display: flex; align-items: center; justify-content: center; white-space: nowrap;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="32" alt="Bootstrap 5 templates" style="margin-right: 8px;">
+ 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="20" alt="Bootstrap 5 templates" style="margin-right: 8px;">
   <span style="font-size: 16px;">Bootstrap</span>
-</div>
+
+</th>
 
 <th>Tailwind CSS</th>
 <th>Nuxt</th>
